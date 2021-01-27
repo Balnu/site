@@ -1,0 +1,64 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+
+.main,
+.header {
+	color: orange;
+}
+a {
+	color: rgb(73, 211, 9);
+}
+#comfort {
+	color: mediumvioletred;
+}
+h1 {
+	color: rgb(253, 11, 11);
+}
+.first > span {
+	color: rgb(69, 24, 110);
+}
+p {
+	color: saddlebrown;
+}
+h2 {
+	color: rgb(37, 17, 2);
+}
+.list {
+	color: lawngreen;
+}
+.text p {
+	color: rgb(54, 197, 10);
+}
+.plus p {
+	color: rgb(125, 125, 219);
+}
+div span {
+	color: navy;
+}
